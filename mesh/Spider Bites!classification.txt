@@ -1,0 +1,2 @@
+Prospective cohort study of definite spider bites in Australian children.	To describe the clinical effects of spider bites in a paediatric population and compare to bites in an adult population.
+Developing a decision tree algorithm for the diagnosis of suspected spider bites.	To develop a diagnostic algorithm (decision tree) to improve the ability to identify or predict medically important spider bites (funnel-web and redback spiders) from information about the circumstances and initial clinical effects of spider bites.

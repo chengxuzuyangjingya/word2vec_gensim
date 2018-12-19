@@ -1,0 +1,1 @@
+Diagnostic thresholds for ambulatory blood pressure monitoring based on 10-year cardiovascular risk.	Current diagnostic thresholds for ambulatory blood pressure (ABP) mainly rely on statistical parameters derived from reference populations. We determined an outcome-driven reference frame for ABP measurement.
